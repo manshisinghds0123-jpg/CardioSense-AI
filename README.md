@@ -53,16 +53,19 @@ CardioSense-AI/ │ ├── app.py ├── train_model.py ├── heart_di
 ## 📸 Screenshots
 
 ### Home Page
-(Add HomePage.png here)
+![Home Page](HomePage.png)
 
 ### Prediction Form
-(Add PredictionForm.png here)
+![Prediction Form](PredictionForm.png)
 
 ### Healthy Prediction Result
-(Add HealthyPrediction.png here)
+![Healthy Prediction](HealthyPrediction.png)
 
 ### High Risk Prediction Result
-(Add HighRiskPrediction.png here)
+![High Risk Prediction](HighRiskPrediction.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
 
 ## 🎯 Future Improvements
 
