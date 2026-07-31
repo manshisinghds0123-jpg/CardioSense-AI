@@ -67,6 +67,11 @@ CardioSense-AI/ │ ├── app.py ├── train_model.py ├── heart_di
 ### Dashboard
 ![Dashboard](Dashboard.png)
 
+## Live Demo
+
+Frontend:
+https://aura-cardiac.lovable.app
+
 ## 🎯 Future Improvements
 
 - Add more medical datasets
